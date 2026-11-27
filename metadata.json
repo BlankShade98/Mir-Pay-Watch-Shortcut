@@ -1,0 +1,6 @@
+{
+  "name": "Mir Pay Shortcut",
+  "description": "Lightweight Wear OS digital assistant shortcut that instantly launches Mir Pay Watch with zero UI, zero permissions, and zero background impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

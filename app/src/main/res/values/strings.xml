@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mir Pay Shortcut</string>
+    <string name="mir_pay_not_installed">Mir Pay Watch is not installed</string>
+    <string name="mir_pay_launch_failed">Unable to open Mir Pay Watch</string>
+</resources>
