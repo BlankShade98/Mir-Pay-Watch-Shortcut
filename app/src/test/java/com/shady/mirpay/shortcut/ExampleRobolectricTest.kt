@@ -1,4 +1,4 @@
-package com.example
+package com.shady.mirpay.shortcut
 
 import android.content.ComponentName
 import android.content.Context

@@ -1,4 +1,4 @@
-package com.example
+package com.shady.mirpay.shortcut
 
 import org.junit.Assert.*
 import org.junit.Test

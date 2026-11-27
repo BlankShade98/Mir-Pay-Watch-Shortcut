@@ -1,4 +1,4 @@
-package com.example
+package com.shady.mirpay.shortcut
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry

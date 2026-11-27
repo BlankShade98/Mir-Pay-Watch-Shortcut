@@ -1,4 +1,4 @@
-package com.example
+package com.shady.mirpay.shortcut
 
 import android.app.Activity
 import android.content.ActivityNotFoundException
